@@ -1,2 +1,3 @@
 # SecPass
-Scripts testes para gerar uma senha aleatória e segura,alguns protótipos de senhas criadas baseadas em sugestões(tentativa de futura IA)
+Scripts testes para gerar uma senha aleatória e segura,alguns protótipos de senhas criadas baseadas em sugestões
+
